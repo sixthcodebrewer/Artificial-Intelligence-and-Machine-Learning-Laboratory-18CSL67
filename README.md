@@ -14,3 +14,7 @@ Step 5: install snap<br/>
         sudo apt install snap<br/><br/>
 Step 6: Install PyCharm Community edition using snap<br/>
         sudo snap install -pycharm-community --classic<br/><br/>
+
+
+(bfs)[https://www.educative.io/edpresso/how-to-implement-a-breadth-first-search-in-python]
+(dfs)[https://www.educative.io/edpresso/how-to-implement-depth-first-search-in-python]
